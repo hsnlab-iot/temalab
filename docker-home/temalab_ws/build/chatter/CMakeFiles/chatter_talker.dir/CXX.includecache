@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/docker-home/temalab_ws/src/chatter/src/talker.cpp
+ros/ros.h
+-
+std_msgs/String.h
+-
+tf/transform_broadcaster.h
+-
+sstream
+-
+string
+-
+beginner_tutorials/serviceString.h
+/home/ubuntu/docker-home/temalab_ws/src/chatter/src/beginner_tutorials/serviceString.h
+

@@ -1,0 +1,7 @@
+[31m[1mCMake Error[0m at /home/ubuntu/docker-home/temalab_ws/src/chatter/CMakeLists.txt:133 (add_executable):
+  add_executable cannot create target "chatter" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "/home/ubuntu/docker-home/temalab_ws/src/chatter".  See
+  documentation for policy CMP0002 for more details.
+
+

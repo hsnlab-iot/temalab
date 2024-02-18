@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/docker-home/temalab_ws/devel/.private/img_process/setup.sh

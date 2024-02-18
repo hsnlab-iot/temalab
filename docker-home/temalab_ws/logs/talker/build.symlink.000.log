@@ -1,0 +1,3 @@
+Symlinking /home/ubuntu/docker-home/temalab_ws/devel/lib/pkgconfig/talker.pc
+Symlinking /home/ubuntu/docker-home/temalab_ws/devel/share/talker/cmake/talkerConfig-version.cmake
+Symlinking /home/ubuntu/docker-home/temalab_ws/devel/share/talker/cmake/talkerConfig.cmake

@@ -1,0 +1,5 @@
+talker
+/home/ubuntu/docker-home/temalab_ws/devel/.private/talker/cmake.lock /home/ubuntu/docker-home/temalab_ws/devel/./cmake.lock
+/home/ubuntu/docker-home/temalab_ws/devel/.private/talker/lib/pkgconfig/talker.pc /home/ubuntu/docker-home/temalab_ws/devel/lib/pkgconfig/talker.pc
+/home/ubuntu/docker-home/temalab_ws/devel/.private/talker/share/talker/cmake/talkerConfig-version.cmake /home/ubuntu/docker-home/temalab_ws/devel/share/talker/cmake/talkerConfig-version.cmake
+/home/ubuntu/docker-home/temalab_ws/devel/.private/talker/share/talker/cmake/talkerConfig.cmake /home/ubuntu/docker-home/temalab_ws/devel/share/talker/cmake/talkerConfig.cmake

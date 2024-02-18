@@ -1,0 +1,1 @@
+/home/ubuntu/docker-home/temalab_ws/devel/.private/img_process/lib/pkgconfig/img_process.pc
