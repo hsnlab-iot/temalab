@@ -14,6 +14,7 @@ A WSL2 (Windows Subsystem for Linux) modul teszi lehetővé, hogy Linux kernelt 
    * A Docker-t közvetlenül Windows rendszerre telepítve tudjuk használni, a WSL2 alrendszer a telepítés végén adható hozzá a Docker konfigurációból.
    * **Fontos:** a telepítés megkezdésekor az *Install required Windows components for WSL2* bepipálása
    * [Install Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/)
+   * Docker telepítés ellenőrzése: Linux terminal ablakból a következő utasítás kiadása: `docker run hello-world`
 
 3. Visual Studio (VS) Code letöltése és telepítése 
    * https://code.visualstudio.com/Download 
